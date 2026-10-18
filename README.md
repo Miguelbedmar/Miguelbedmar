@@ -1,4 +1,4 @@
-##¡ 👋 ¡SALUDOS! ¡SOY MIGUEL!
+¡ 👋 ¡SALUDOS! ¡SOY MIGUEL!
 
 
 #👤SOBRE MI
