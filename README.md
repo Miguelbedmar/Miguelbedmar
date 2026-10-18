@@ -1,16 +1,15 @@
-## Hi there 👋
+##¡ 👋 ¡SALUDOS! ¡SOY MIGUEL!
 
-<!--
-**Miguelbedmar/Miguelbedmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#👤SOBRE MI
+- Actualmente manejo Java,Python,SQL
+- Tengo mayor interes en el desarrollo backend
+- Actualmente cursando segundo de desarrollo de aplicaciones multimedia
+- 
+  
+# 📫CONTACTO
+- Correo: miguelbedmards@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#PROYECTO DESTACADO.
+- [VELKA](https://github.com/Miguelbedmar/VELKA.git)
+
