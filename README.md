@@ -2,7 +2,7 @@
 
 
 #👤SOBRE MI
-- Actualmente manejo Java,Python,SQL
+- Actualmente manejo Java,Python,SQL,Kotlin
 - Tengo mayor interes en el desarrollo backend
 - Actualmente cursando segundo de desarrollo de aplicaciones multimedia
 - 
