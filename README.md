@@ -1,13 +1,13 @@
 ¡ 👋 ¡SALUDOS! ¡SOY MIGUEL!
 
 
-#👤SOBRE MI
+👤SOBRE MI
 - Actualmente manejo Java,Python,SQL,Kotlin
 - Tengo mayor interes en el desarrollo backend
 - Actualmente cursando segundo de desarrollo de aplicaciones multimedia
 - 
   
-# 📫CONTACTO
+ 📫CONTACTO
 - Correo: miguelbedmards@gmail.com
 
 #PROYECTO DESTACADO.
