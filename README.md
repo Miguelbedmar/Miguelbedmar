@@ -13,7 +13,7 @@
 # 📅 Planes a futuro.
  -  Desarrar de videojuegos en unity
  -  Aprender a manejar  Godot.
- -  desarrollar un videojuegos independiente. 
+ -  desarrollar un videojuego independiente. 
 
 #➡️ PROYECTOS DESTACADO.
 - [VELKA](https://github.com/Miguelbedmar/VELKA.git)
